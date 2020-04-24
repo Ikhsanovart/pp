@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\marsel"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PP_start"
+	}
+}
